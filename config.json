@@ -1,0 +1,5 @@
+  {
+    "prefix": "a!",
+    "token": "OTMzNjM0NDQwMzg5ODU3MzAy.YekY1A.MD2Gs1hiJTtHoinvmWLH8KE4dy0",
+    "mongooseConnection": "mongodb+srv://botData:bwXtshqzt7EhVW2@cluster0.d6oqo.mongodb.net/botDataDiscord?retryWrites=true&w=majority"
+}
